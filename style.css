@@ -1,3 +1,8 @@
 h1{
     background-color: red;
+    color: aqua;
+}
+p{
+    color: blue;
+    font-style: 60px;
 }
